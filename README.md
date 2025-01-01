@@ -1,4 +1,4 @@
-# 🌐 CLOUD-SECURITY-AND-IDENTITY-MANAGEMENT
+# 🌐CLOUD-SECURITY-AND-IDENTITY-MANAGEMENT
 
 ## 🔒 **Project Overview**  
 This project focuses on **Cloud Security and Identity Management** using **AWS**. It demonstrates how to securely manage access to cloud resources, protect sensitive data, and implement best practices for identity management.  
